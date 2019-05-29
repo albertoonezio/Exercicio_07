@@ -25,7 +25,7 @@ namespace Exercicio_Parte2_07
 
             if (primeiroNumero > segundoNumero + terceiroNumero)
             {
-                Console.WriteLine("O Primeiro número é mais do que a soma dos outros dois!");
+                Console.WriteLine("O Primeiro número é maior do que a soma dos outros dois!");
             }
         }
     }
